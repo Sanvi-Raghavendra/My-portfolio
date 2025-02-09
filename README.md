@@ -1,42 +1,42 @@
 # My-Portfolio
 
-****Sanvi's Portfolio********
+**_Sanvi's Portfolio_**
 
 Student | Passionate about Data-Driven Insights
 
 _**Projects:**_
 
-Retinal Image Analysis for Cardiovascular Disease Detection
+* Retinal Image Analysis for Cardiovascular Disease Detection
 
 **_Mini Project:_**
 
-Logistics optimization dashboard for a transportation company
+* Logistics optimization dashboard for a transportation company
 
-**Certifications**
+**_Certifications_**
 
-Data Analytics - Simplilearn
+* Data Analytics - Simplilearn
 
-Front-end workshop
+* Front-end workshop
 
-Data Visualisation job simulation - TATA
+* Data Visualisation job simulation - TATA
 
-Data Analytics job simulation - Quantium
+* Data Analytics job simulation - Quantium
 
-Data Analytics job simulation - Accenture
+* Data Analytics job simulation - Accenture
 
-**Skills**
+**_Skills_**
 
-Python
+* Python
 
-SQL
+* SQL
 
-Power BI
+* Power BI
 
-Data Visualization
+* Data Visualization
 
-Excel
+* Excel
 
-**Contact**
+**_Contact_**
 
 _ph_: 8431142218
 
